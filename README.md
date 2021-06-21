@@ -1,4 +1,4 @@
-# Dogecoin Price Analysis
+# Dogecoin Price and Social Media
 
 Compares dogecoin price movement to dogecoin subreddit and twitter activity to determine if there is a correlation.
 Also shows Elon Musk tweets' impact on dogecoin price. 
